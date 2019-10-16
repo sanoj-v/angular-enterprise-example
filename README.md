@@ -5,10 +5,6 @@
 This is a **work in progress**. It is likely to have many changes over time,
 particularly as all of the tools improve.
 
-Compodoc documentation is available at:
-
-https://oasisdigital.github.io/angular-enterprise-example/
-
 ## Goals
 
 1. Show an example of a sprawling set of related Angular applications, divided
@@ -88,11 +84,3 @@ cd servers/node
 yarn
 yarn start
 ```
-
-## Contact us
-
-Main author: [Kyle Cordes](http://kylecordes.com/)
-
-Much help from the team at: [Oasis Digital](https://oasisdigital.com/)
-
-... who teach [Angular Boot Camp](https://angularbootcamp.com/)
